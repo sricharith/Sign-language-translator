@@ -1,0 +1,5 @@
+train: "F:\Sign_Talk_project\Data\images\train"
+val:  "F:\Sign_Talk_project\Data\images\valid"
+
+nc: 36
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Apple', 'Can', 'Get', 'Good', 'Give me a call', 'I love you', 'I want money', 'I want to go to the washroom', 'Please stop', 'Thank you very much']
