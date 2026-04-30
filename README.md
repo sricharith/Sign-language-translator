@@ -2,6 +2,8 @@
 
 **Sign Talk** is an end-to-end Computer Vision solution designed to bridge the communication gap for the hearing and speech impaired. By leveraging the power of **YOLOv11** and **OpenCV**, this application detects American Sign Language (ASL) gestures via webcam and translates them into text and speech in real-time.
 
+### 📜 Project report doument Link : [Google Drive](https://drive.google.com/file/d/1u0a-EsmzTmI1Y3fpYHU70sDv4sgtqY9Z/view?usp=sharing)
+
 ---
 
 ## 🚀 Features
